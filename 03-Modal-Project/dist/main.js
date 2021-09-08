@@ -5,7 +5,7 @@ var modalOverlay = document.querySelector(".modal-overlay");
 var modalCloseButton = document.querySelector(".close-modal-button");
 var modalOpenButton = document.querySelector(".open-modal-button");
 // function to toggle modal window
-var toggleModal = function () {
+var toggleModal = function (event) {
     modalWindow.classList.toggle("hidden");
     modalOverlay.classList.toggle("hidden");
 };

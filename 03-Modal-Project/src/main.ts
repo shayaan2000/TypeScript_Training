@@ -11,7 +11,7 @@ const modalOpenButton = document.querySelector(
 ) as HTMLElement;
 
 // function to toggle modal window
-const toggleModal = (): void => {
+const toggleModal = (event:Event): void => {
   modalWindow.classList.toggle("hidden");
   modalOverlay.classList.toggle("hidden");
 };
