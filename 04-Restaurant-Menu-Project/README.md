@@ -1,4 +1,4 @@
-# Restaurant Project
+# Restaurant Menu Project
 
 ## Description
 This is a Restaurants menu app which has the following features:
