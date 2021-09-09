@@ -27,6 +27,7 @@ tsconfig.json file| For setting options for the typescript|
 src directory| Contains the main typescript file, main.ts|
 dist directory| Contains the emitted javascript file, main.ts|
 css directory| Contains the relevant css and scss files|
+img directory| Contains the required image assets|
 
 ## Project Setup
 To setup the project, you need to:
