@@ -26,5 +26,7 @@ This repository covers the TypeScript Training portion of the front-end developm
   
   This is the second project done after the completion of the TypeScript Training.
 
-
+- 05-Todo-List-Project/
+  
+  This is an older project initially made in vanilla JavaScript but then converted to TypeScript. You can check out the Vanilla JS one [at this link](https://github.com/shayaan2000/JS_Training/tree/main/todo-list-assignment)
 
